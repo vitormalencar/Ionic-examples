@@ -1,6 +1,6 @@
 # Teste de ionic
 ______________
-### data de entrega:  28 de maio de 2016
+### data de entrega:  29 de maio de 2016
 _______________
 ## Objetivos
 o participante terá de criar aplicação partindo desse projeto base, que venha a consumir a aplica de filmes do **[themoviedb](http://docs.themoviedb.apiary.io/)**.
