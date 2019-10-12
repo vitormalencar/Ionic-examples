@@ -1,4 +1,7 @@
 # Teste de ionic
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/vitormalencar/Ionic-examples.svg)](https://greenkeeper.io/)
+
 ______________
 ### data de entrega:  29 de maio de 2016
 _______________
