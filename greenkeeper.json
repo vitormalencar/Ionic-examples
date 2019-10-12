@@ -1,0 +1,13 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "myapp/package.json",
+        "myapp/www/lib/angular-animate/package.json",
+        "myapp/www/lib/angular-sanitize/package.json",
+        "myapp/www/lib/angular/package.json",
+        "myapp/www/lib/ngInfiniteScroll/package.json"
+      ]
+    }
+  }
+}
